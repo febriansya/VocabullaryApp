@@ -30,7 +30,7 @@ class ViewPagerFragment : Fragment() {
 
         val fragmentList = arrayListOf<Fragment>(
             ObSecondFragment(),
-            ObThreadFragment(),
+//            ObThreadFragment(),
         )
 
         val adapter = ViewPagerAdapter(
