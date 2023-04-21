@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".feature_vocabulary.presentation.splash_screen.screens.ObSecondFragment">
+    tools:context=".feature_vocabulary.presentation.on_boarding.screens.ObSecondFragment">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView

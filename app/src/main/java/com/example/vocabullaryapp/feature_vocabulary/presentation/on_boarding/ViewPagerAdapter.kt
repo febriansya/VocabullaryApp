@@ -1,4 +1,4 @@
-package com.example.vocabullaryapp.feature_vocabulary.presentation.splash_screen
+package com.example.vocabullaryapp.feature_vocabulary.presentation.on_boarding
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager
